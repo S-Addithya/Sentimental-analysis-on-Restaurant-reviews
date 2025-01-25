@@ -6,6 +6,6 @@ Visualization of class distribution and confusion matrix aids in understanding t
 
 Libraries used: Pandas, Matplotlib, Seaborn, WordCloud, Scikit-learn, NLTK.Platform: Python, Google Colab.
 
-Used dataset Restaurant_reviews.tsv
+Used dataset Restaurant_reviews 1 (2).tsv
 
 The Max Accuracy Achived was 76%
